@@ -1,0 +1,17 @@
+B-name
+B-email
+B-phone
+B-university
+B-degree
+B-company
+B-job_position
+B-skill
+I-name
+I-email
+I-phone
+I-university
+I-degree
+I-company
+I-job_position
+I-skill
+O

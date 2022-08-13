@@ -1,0 +1,45 @@
+Justin Miron
+
+Address: 110 Lake Street, Ithaca, NY, 14850 Email: justinmiron@cs.cornell.edu
+
+Links: Website, Github, LinkedIn Phone: (810) 841-8557
+
+EDUCATION
+
+Ph.D. Student, Cornell University August 2017 -
+
+Department of Computer Science
+Advisor: Prof. Rachit Agarwal
+
+B.S., University of Illinois at Urbana-Champaign August 2013 - May 2017
+Department of Computer Engineering
+
+RELEVANT COURSEWORK
+Graduate {Computer Networks, Distributed Algorithms, Distributed Systems, Computer Networks, Program-
+
+ming Languages & Compilers}, Computer Architecture, Networking with Big Data, Operating System Design
+
+WorRK EXPERIENCE
+
+Research Assistant at Cornell, Ithaca, NY
+
+Software Engineering Intern at Google, Sunnyvale, CA
+
+Network Infrastructure
+
+Software Engineering Intern at Microsoft, Aliso Viejo, CA
+
+Azure Data Warehouse Group
+
+Software Engineer at Charmworks Inc., Champaign, IL
+
+Research Assistant at University of Illinois at Urbana-Champaign, Urbana, IL
+
+Intern with Google Compute Engine at Google, Seattle, WA
+Summer 2015 | Intern at ViaSat Inc., Carlsbad, CA
+
+PROGRAMMING SKILLS
+Languages: C, C++, Python, Java
+
+Familiar with various parallel computing, RPC, build, and version control frameworks/systems.
+

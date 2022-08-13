@@ -1,0 +1,156 @@
+DZMITRY KAKHANOUSKI
++375 29 577-4376 (cid:5) dmitkoh@gmail.com
+Minsk, Belarus
+EDUCATION
+Belarusian State University of Informatics and Radioelectronics, Minsk
+Faculty of Computer Systems and Networks
+B.S. in Mathematics & Software Engineering
+June 2015
+HAVE EXPERIENCE WITH
+SQL Databases
+Azure SQL Database, SQL Server 2019/2016, SSAS (Tabular),
+PostgreSQL, Oracle 11g
+SQL(T-SQL, PL/SQL and others), Python, DAX,
+Power Query M, C# and others
+Azure Data Factory, Apache Airﬂow, SSIS
+Azure Databricks, Jupyter Notebook
+Power BI, Tableau, QlikView
+Kibana, Grafana
+Docker
+Programming Languages
+Dataﬂow autmation tools
+Execution environments
+BI reporting tools
+Monitoring tools
+Containerization
+WORK POSITIONS
+ScienceSoft
+Data Engineer
+· Take participation in development of the invoicing solution for customer-management business-process
+outsourcing company
+· Researching data from several data sources (including manual input ﬁles) for further integration
+· Working on raw data schema, dimensions, facts in DWH
+· Implementing tables, views, procedures and others in SQL Server
+May 2020 - Present
+Minsk, Belarus
+ScienceSoft
+February 2020 - April 2020
+Data Engineer
+Minsk, Belarus
+· Take participation in development of the MDM solution for mobility technology company for automak-
+ers
+· Researching and proﬁling data, creating data mapping for several data sources
+· Take participation in solution architecture development
+· Implementing tables, views, procedures and others in Azure SQL DB
+· Developing and implementing Azure Data Factory pipelines (including data integration with Power
+Apps, deployment integration with Azure DevOps)
+ScienceSoft
+BI Developer
+· Working on reporting system with forecast analytics related to load of airport’s security service, pas-
+senger loads and ﬂights exploring.
+· Take participation in development of the reporting data model and required transformations of data
+using Azure Databricks.
+September 2019 - January 2020
+Minsk, Belarus
+· Implementing Power BI reports (including required DAX measures and data transformations on M
+language).
+· Creating visualizations data mapping documentation.
+· Cross validation of data science forecast data from reports’ side.
+ScienceSoft
+BI Developer
+· Take participation in developing architecture of data-related part of the solution.
+· Developing Power BI push dataset and custom python tool for ETL processing.
+· Working on Power BI embedded reports.
+· Implementing Ad Hoc reporting functionality.
+December 2018 - August 2019
+Minsk, Belarus
+ScienceSoft
+BI Developer
+· Implementing Power BI analytical reports
+· Take participation in developing of integration process including integration with Magento, Mindbody,
+Agilysys, Dynamics 365
+· Take participation in embedding Power BI reports to Microsoft Dynamics 365
+October 2018 - February 2019
+Minsk, Belarus
+ScienceSoft
+September 2018 - December 2018
+Data Engineer
+Minsk, Belarus
+· Adding logic for self-destructible secure messaging on data storage side
+· Working on features improving security in messaging system
+ScienceSoft
+Data Scientist
+· Investigating potential of using DLib face recognition library
+· Increasing face recognition and face comparison experience of the company
+· Writing experimental python tool for solving face recognition and face comparison problems
+May 2018 - October 2018
+Minsk, Belarus
+ScienceSoft
+Data Scientist
+· Investigating potential of using Darkﬂow(Tensorﬂow, YOLO) for detecting objects.
+· Writing python tool for detecting well-deﬁned reference points on the outlines of the horse.
+May 2018 - October 2018
+Minsk, Belarus
+ScienceSoft
+October 2017 - April 2018
+Data Engineer
+Minsk, Belarus
+· Worked on developing of experimental dataﬂow to investigate potential of using Apache NiFi and
+Apache Kudu
+· Was involved with improving of deployment process using Docker and TeamCity
+· Was part of a team developing ETL process via Apache Airﬂow and Azure SQL Server
+· Implemented data transformations and structure of data storage layer of ETL process
+LifeTech TurkCell Group, LLC
+Data Analyst & Billing Support Engineer
+· Was involved with investigating and troubleshooting problems in a billing system
+· Looked for anomalies in a system behavior, triaged support tickets and raised issues for developers
+· Wrote PL/SQL scripts to ﬁx data that was corrupted by billing system defects
+· Improved performance of billing data internal consistency check scripts
+June 2017 - August 2017
+Minsk, Belarus
+Insoft Engineering
+React Native Developer
+· Was part of a team investigating potential of using React Native framework
+· Wrote experimental application using geolocation services and Google Maps API
+March 2017 - May 2017
+Minsk, Belarus
+Insoft Engineering
+January 2017 - February 2017
+Data Scientist
+Minsk, Belarus
+· Worked on a product ranking algorithm using Google Analytics data
+· Provisioned ELK stack and conﬁgured ecommerce project to use it
+Insoft Engineering (for SRI Infotech)
+PL/SQL DB Developer
+· Worked on implementing access control system logic
+· Improved development support scripts and test data generation tools
+· Was involved in a DB architecture development
+· Was helping with junior developers onboarding
+· Recommendation letter
+June 2015 - December 2016
+Minsk, Belarus
+Insoft Engineering (for MW2 Commerce)
+Magento Developer
+· Created Magento page templates from HTML ﬁles provided by designers
+· Patched Magento date parsing issue
+· Worked on Internet Explorer compatibility issues
+· Fixed lots of other project bugs
+October 2014 - May 2015
+Minsk, Belarus
+Insoft Engineering
+PL/SQL DB Developer
+· Implemented changes to over-the-counter marketplace logic
+· Worked on improving development support scripts and test data generation tools
+· Worked on performance critical code of a ﬁnancial system
+May 2014 - September 2014
+Minsk, Belarus
+CERTIFICATIONS
+MCSA: SQL 2016 Business Intelligence Development
+Microsoft Certiﬁcation
+June 2019
+Exam 768: Developing SQL Data Models
+Microsoft Certiﬁcation
+June 2019
+Exam 767: Implementing a Data Warehouse
+Microsoft Certiﬁcation
+May 2019

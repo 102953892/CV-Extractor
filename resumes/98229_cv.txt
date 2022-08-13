@@ -1,0 +1,19 @@
+DZMITRY KAKHANOUSKI
++375 29 577-4376 (cid:5) dmitkoh@gmail.com
+Minsk, Belarus
+EDUCATION
+Belarusian State University of Informatics and Radioelectronics, Minsk
+Faculty of Computer Systems and Networks
+B.S. in Mathematics & Software Engineering
+June 2015
+HAVE EXPERIENCE WITH
+SQL Databases
+Azure SQL Database, SQL Server 2019/2016, SSAS (Tabular),
+PostgreSQL, Oracle 11g
+SQL(T-SQL, PL/SQL and others), Python, DAX,
+Power Query M, C# and others
+Azure Data Factory, Apache Airﬂow, SSIS
+Azure Databricks, Jupyter Notebook
+Power BI, Tableau, QlikView
+Kibana, Grafana
+
